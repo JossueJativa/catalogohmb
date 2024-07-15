@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Pan"
+  },
+  {
+    "id": 2,
+    "name": "Carne molida"
+  },
+  {
+    "id": 3,
+    "name": "Rodaja de tomate"
+  },
+  {
+    "id": 4,
+    "name": "Hoja de lechuga"
+  },
+  {
+    "id": 5,
+    "name": "Carne de pollo"
+  },
+  {
+    "id": 6,
+    "name": "Huevo"
+  },
+  {
+    "id": 7,
+    "name": "Salchica"
+  },
+  {
+    "id": 8,
+    "name": "Papas Fritas"
+  },
+  {
+    "id": 9,
+    "name": "Papas francesas"
+  },
+  {
+    "id": 10,
+    "name": "Cebolla acaramelizada"
+  },
+  {
+    "id": 11,
+    "name": "Queso chedar"
+  }
+]

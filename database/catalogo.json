@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nombre": "Hamburgesa de carne",
+    "descripcion": "Hamburgesa de carne sabrosa de ...",
+    "precio": 2.5,
+    "stock": 20,
+    "imagen": "https://www.hogar.mapfre.es/media/2018/09/hamburguesa-sencilla.jpg",
+    "id_ingredientes": [
+      1,
+      2,
+      3,
+      4,
+      11
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Hamburgesa de chirizo",
+    "descripcion": "Hamburgesa de carne sabrosa de ...",
+    "precio": 4.2,
+    "stock": 20,
+    "imagen": "https://www.goodnes.com/sites/g/files/jgfbjl321/files/srh_recipes/aafaf8ff82d5b614e8f1522f4e355766.png",
+    "id_ingredientes": [
+      1,
+      2,
+      3,
+      4,
+      11,
+      7,
+      10
+    ]
+  }
+]

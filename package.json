@@ -1,0 +1,16 @@
+{
+  "name": "catalogohmb",
+  "version": "1.0.0",
+  "description": "Catalogo de hamburgesas para servicio con C#",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jossue Jativa y Enrique Merizalde",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}

@@ -1,0 +1,8 @@
+class Ingredientes {
+    constructor(id, name) {
+        this.id = id;
+        this.name = name;
+    }
+}
+
+module.exports = Ingredientes;
